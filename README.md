@@ -3,7 +3,7 @@
 Add persisted data to the provided sample app. The assigned app mimics Apple's Notes app and contains a series of todos for reading from and writing to the database. Implementing these todos will give you familiarity with Core Data and will give you a starting point for using persistence in your final project app.
 
 ## Goals of Project
-* Gain familiarity with using Core Data to keep data around (persist) between sessions on a single iOS device.
+Gain familiarity with using Core Data to keep data around (persist) between sessions on a single iOS device.
 
 ## Project Requirements
 Your app must meet all requirements laid out in the sample app. Format: Sample app has all input/output TODOs filled out and functioning.

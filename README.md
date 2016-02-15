@@ -7,6 +7,7 @@ Add persisted data to the provided sample app. The assigned app mimics Apple's N
 
 ## Project Requirements
 Your app must meet all requirements laid out in the sample app. Format: Sample app has all input/output TODOs filled out and functioning.
+
 1. In .xcdatamodeld, add a "Note" entity with one String attribute, "text"
 2. Create an NSManagedObject subclass, Note. Two files will be output.
 3. Add code for retrieving the shared managed object context at the bottom of AppDelegate.swift
